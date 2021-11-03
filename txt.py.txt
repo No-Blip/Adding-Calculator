@@ -1,0 +1,2 @@
+a a = lambda x, y: x + y
+print(a(0, 10))
